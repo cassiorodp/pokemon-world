@@ -108,6 +108,15 @@ export default class Pokecard extends Component {
             </section>
           </div>
         </div>
+        <div className='more-details-link'>
+          <a
+            target='_blank'
+            rel='noreferrer'
+            href={`https://bulbapedia.bulbagarden.net/wiki/${name}_(Pokémon)`}
+          >
+            More Details
+          </a>
+        </div>
       </div>
     )
   }

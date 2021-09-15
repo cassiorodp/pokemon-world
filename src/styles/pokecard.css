@@ -1,8 +1,10 @@
 .poke-card {
   align-items: center;
+  align-content: center;
   border: 1px solid #333333;
   border-radius: 20px;
   display: flex;
+  flex-flow: row wrap;
   height: 200px;
   justify-content: center;
   margin: 15px;
@@ -11,6 +13,16 @@
   overflow: hidden;
   position: relative;
   width: 30vw;
+}
+
+.more-details-link {
+  flex-basis: 100%;
+  text-align: center;
+}
+
+.more-details-link a {
+  text-decoration: none;
+  color: #a80000;
 }
 
 .poke-card .pokemon-sprite {
