@@ -23,5 +23,5 @@
 
 ---
 
-[Find your favorite pokemon here!](https://murilo-rainho.github.io/pokeinfo/)
+[Find your favorite pokemon here!](https://cassiorodp.github.io/pokemon-world/)
 We are open for feedbacks.
