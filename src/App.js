@@ -1,6 +1,6 @@
 import './App.css';
 import React,{ Component} from 'react'
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { Switch, Route, HashRouter } from 'react-router-dom';
 
 import Header from './components/Header';
 import Home from './pages/Home';
@@ -12,7 +12,7 @@ import NoMatch from './pages/NoMatch';
 class App extends Component {
   render() {
     return (
-      <BrowserRouter basename='/pokemon-world'>
+      <HashRouter>
         <Header />
         <Switch>
           <Route exact path='/' component={ Home }/>
@@ -21,7 +21,7 @@ class App extends Component {
           <Route path="*" component={ NoMatch } />
         </Switch>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
