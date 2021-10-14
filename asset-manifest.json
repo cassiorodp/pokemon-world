@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pokemon-world/static/css/main.fcce243d.chunk.css",
-    "main.js": "/pokemon-world/static/js/main.34a235b8.chunk.js",
-    "main.js.map": "/pokemon-world/static/js/main.34a235b8.chunk.js.map",
+    "main.js": "/pokemon-world/static/js/main.832b72f7.chunk.js",
+    "main.js.map": "/pokemon-world/static/js/main.832b72f7.chunk.js.map",
     "runtime-main.js": "/pokemon-world/static/js/runtime-main.0e21ed07.js",
     "runtime-main.js.map": "/pokemon-world/static/js/runtime-main.0e21ed07.js.map",
-    "static/js/2.697c6e8d.chunk.js": "/pokemon-world/static/js/2.697c6e8d.chunk.js",
-    "static/js/2.697c6e8d.chunk.js.map": "/pokemon-world/static/js/2.697c6e8d.chunk.js.map",
+    "static/js/2.c44ab2a2.chunk.js": "/pokemon-world/static/js/2.c44ab2a2.chunk.js",
+    "static/js/2.c44ab2a2.chunk.js.map": "/pokemon-world/static/js/2.c44ab2a2.chunk.js.map",
     "static/js/3.a1fb60b1.chunk.js": "/pokemon-world/static/js/3.a1fb60b1.chunk.js",
     "static/js/3.a1fb60b1.chunk.js.map": "/pokemon-world/static/js/3.a1fb60b1.chunk.js.map",
     "index.html": "/pokemon-world/index.html",
     "static/css/main.fcce243d.chunk.css.map": "/pokemon-world/static/css/main.fcce243d.chunk.css.map",
-    "static/js/2.697c6e8d.chunk.js.LICENSE.txt": "/pokemon-world/static/js/2.697c6e8d.chunk.js.LICENSE.txt",
+    "static/js/2.c44ab2a2.chunk.js.LICENSE.txt": "/pokemon-world/static/js/2.c44ab2a2.chunk.js.LICENSE.txt",
     "static/media/catch-pokemon.33dfb9d2.gif": "/pokemon-world/static/media/catch-pokemon.33dfb9d2.gif",
     "static/media/charmander_sad.c9b440c5.gif": "/pokemon-world/static/media/charmander_sad.c9b440c5.gif",
     "static/media/pokedex.css": "/pokemon-world/static/media/loading.176efa05.gif",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e21ed07.js",
-    "static/js/2.697c6e8d.chunk.js",
+    "static/js/2.c44ab2a2.chunk.js",
     "static/css/main.fcce243d.chunk.css",
-    "static/js/main.34a235b8.chunk.js"
+    "static/js/main.832b72f7.chunk.js"
   ]
 }
