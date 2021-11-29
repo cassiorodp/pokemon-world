@@ -21,12 +21,12 @@ export default class Home extends Component {
           <div className='pokemon-bottom-right'>
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/5/5d/Spr_5b_032.png' alt='nidoran-m' />
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/1/16/Spr_5b_033.png' alt='nidorino' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/4/46/Spr_5b_034.png' alt='nidoran-m' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/5/5d/Spr_5b_032.png' alt='nidoran-m' />
           </div>
           <div className='pokemon-bottom-left'>
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/4/43/Spr_5b_151.png' alt='mew' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/7/73/Spr_5b_150.png' alt='mewtwo' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/9/9f/Spr_5b_251.png' alt='celebi' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/7/73/Spr_5b_150.png' alt='mewtwo' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/9/9f/Spr_5b_251.png' alt='celebi' />
           </div>
           <img className='professor-img' src={professorOak} alt="professor-oak" />
         </section>
