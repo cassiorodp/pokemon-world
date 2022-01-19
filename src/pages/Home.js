@@ -14,14 +14,14 @@ export default class Home extends Component {
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/3/3d/Spr_5b_009.png' alt='blastoise' />
           </div>
           <div className='pokemon-top-left'>
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/e/e8/Spr_5b_244.png' alt='entei' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/e/e8/Spr_5b_244.png' alt='entei' />
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/b/b0/Spr_5b_243.png' alt='raikou' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/6/6a/Spr_5b_245.png' alt='suicune' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/6/6a/Spr_5b_245.png' alt='suicune' />
           </div>
           <div className='pokemon-bottom-right'>
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/5/5d/Spr_5b_032.png' alt='nidoran-m' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/1/16/Spr_5b_033.png' alt='nidorino' />
             <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/5/5d/Spr_5b_032.png' alt='nidoran-m' />
+            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/1/16/Spr_5b_033.png' alt='nidorino' />
+            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/4/46/Spr_5b_034.png' alt='nidoking' />
           </div>
           <div className='pokemon-bottom-left'>
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/4/43/Spr_5b_151.png' alt='mew' />
