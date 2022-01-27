@@ -112,12 +112,27 @@ Feel free to add any contribution on our app! Here is some instructions:
 
 ---
 
-<h2 id="contacts">Contacts</h2>
+<h2 id="contacts">📫 Contacts</h2>
     
 <h3>This project was done by the developers:</h3>
-
- - [Cassio Pereira](https://github.com/cassiorodp)
- - [Murilo Rainho](https://github.com/Murilo-Rainho)
+<ul>
+    <li>
+      <a href="https://www.linkedin.com/in/cassio-rodrigues-pereira/" target="_blank">
+        <img src="https://img.shields.io/badge/-Cassio_Pereira-blue?style=flat&logo=Linkedin&logoColor=white">
+      </a>
+      <a href="https://github.com/cassiorodp" target="_blank">
+        <img src="https://img.shields.io/badge/-Cassio_Pereira-black?style=flat&logo=Github&logoColor=white">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/murilo-rainho/" target="_blank">
+        <img src="https://img.shields.io/badge/-Murilo_Rainho-blue?style=flat&logo=Linkedin&logoColor=white">
+      </a>
+      <a href="https://github.com/Murilo-Rainho" target="_blank">
+        <img src="https://img.shields.io/badge/-Murilo_Rainho-black?style=flat&logo=Github&logoColor=white">
+      </a>
+    </li>
+</ul>
 
 ---
 
