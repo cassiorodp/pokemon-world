@@ -36,7 +36,7 @@
       </ul>
     </li>
     <li>
-      <a href="#man_technologist-Running_the_App">Running the App</a>
+      <a href="#man_technologist-running_the_app">Running the App</a>
       <ul>
         <li><a href="">Prerequisites</a></li>
         <li><a href="">Installation</a></li>
