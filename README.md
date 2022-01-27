@@ -31,7 +31,7 @@
     <li>
       <span>About the Project</span>
       <ul>
-        <li><a href="#gear">Functionalities</a></li>
+        <li><a href="#gear-Functionalities">Functionalities</a></li>
         <li><a href="">Techs</a></li>
       </ul>
     </li>
@@ -47,7 +47,7 @@
   </ol>
 </details>
 
-### :gear: Funcionalidades
+### :gear: Functionalities
 - Exibição de um carrossel com os filmes mais recentes
 - Catálogo de filmes com exibição em lista ou coluna
 - Página de detalhes do filme, com trailer (se existir)
