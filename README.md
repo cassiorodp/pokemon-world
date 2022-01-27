@@ -32,7 +32,7 @@
       <span>About the Project</span>
       <ul>
         <li><a href="#gear-Features">Features</a></li>
-        <li><a href="computer-Techs">Techs</a></li>
+        <li><a href="#computer-Techs">Techs</a></li>
       </ul>
     </li>
     <li>
