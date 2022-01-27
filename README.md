@@ -36,7 +36,7 @@
       </ul>
     </li>
     <li>
-      <a href="">Running the App</a>
+      <a href="#man_technologist-Running">Running the App</a>
       <ul>
         <li><a href="">Prerequisites</a></li>
         <li><a href="">Installation</a></li>
@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </div>
 
-## :man_technologist: Executando a aplicação
+## :man_technologist: Running the App
 
 Para executar a aplicação localmente siga as instruções abaixo.
 
