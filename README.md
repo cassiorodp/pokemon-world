@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </div>
 
-## :man_technologist: Running the App
+### :man_technologist: Running the App
 
 Para executar a aplicação localmente siga as instruções abaixo.
 
