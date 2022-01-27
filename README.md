@@ -26,33 +26,40 @@
 ---
 
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2">Table of Contents</h2></summary>
   <ol>
     <li>
-      <span>About the Project</span>
+      <a href="#about">About</a>
       <ul>
-        <li><a href="#gear-Features">Features</a></li>
-        <li><a href="#computer-Techs">Techs</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#techs">Techs</a></li>
       </ul>
     </li>
     <li>
       <span>Running the App</span>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="">Installation</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="">Contribuição</a></li>
-    <li><a href="">Contacts</a></li>
+    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#contacts">Contacts</a></li>
   </ol>
 </details>
 
-### :gear: Features
+<h2 id="about">⚡ About</h2> 
+<p align="center">
+Pokemon World is an fan app for you to find your next favorite pokemon! Here you can find a lot of information about all pokemons, like his moves, types or even his evolutions!
+
+This project was made with pair programming, so besides hard-skills, a lot of soft-skills where improved by making this app, eg: Communication, Colaboration and Creativity.
+
+<h3 id="features">⚙ Features</h3>
+
 - Search tool with animated feedback
 - Complete pokedex with pagination
 - Pokemon cards with animated css
 
-### :computer: Techs
+<h3 id="techs">💻 Techs</h3>
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -61,54 +68,54 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </div>
 
-### :man_technologist: Running the App
+<h3>👨‍💻 Running the App</h3>
 
 To execute the app, please follow this instructions.
 
 <h3 id="prerequisites">Prerequisites</h3>
 
-Primeiramente é necessário que possua instalado as seguintes ferramentas: gerenciador de pacotes NPM e o Git.
-Além disto é bom ter um editor para trabalhar com o código como VSCode.
+You need to have these tools: NPM & Git.
+Besides, if you want to contribuite later, it's good to have some code editor like vsCode
 
-### Instalação
+<h3 id="installation">Installation</h3>
 
-1. Faça uma cópia do repositório (HTTPS ou SSH)
+1. Clone the repository (HTTPS or SSH)
    ```sh
-   git clone https://github.com/flpnascto/movies-react.git
+   git clone https://github.com/cassiorodp/pokemon-world.git
+   ```
+    
+   ```sh
+   git@github.com:cassiorodp/pokemon-world.git
    ```
 
-   ```sh
-   git@github.com:flpnascto/movies-react.git
-   ```
-
-2. Acesse a pasta do repositório loca e instale os pacotes necessários
+2. Acess the local repository and install the dependencies
 
    ```sh
    npm install
    ```
-3. Adicionar chave para acesso à API TMDb
-     1. Crie uma conta no site [https://www.themoviedb.org/](https://www.themoviedb.org/)
-     2. Acesse sua conta em **configurações**
-     3. Acesse no menu esquerdo a seção **API**
-     4. Copie a sua chave em **Chave da API (v3 auth)**
-     5. Na raiz do repositório local crie um novo arquivo chamado `.env.local`
-     6. Abra `.env.local` e adicione a linha, substituindo _<<api_key>>_ pela sua chave (3.4)
-
-     ```
-     REACT_APP_APIKEY=<<api_key>>
-     ```
-
-4. Na pasta do repositócio local execute o comando para iniciar a aplicação
+   
+3. In the local repository, execute the following comand to run the app, by default it should run in `localhost:3000`, you can acess by your browser
 
    ```sh
    npm start
    ```
 
-### Made by Pair Progamming
+<h2 id="contribution">🏗 Contribution</h2>
+
+Feel free to add any contribution on our app! Here is some instructions:
+    
+1. Fork
+2. Create your feature/fix branch (`git checkout -b feature/fix`)
+3. Commit your alterations (`git commit -m 'Improving your app!'`)
+4. Push to remote repository (`git push origin feature/fix`)
+5. Open a PR(Pull Request)
 
 ---
 
-### This project was done by the developers:
+<h2 id="contacts">Contacts</h2>
+    
+<h3>This project was done by the developers:</h3>
+
  - [Cassio Pereira](https://github.com/cassiorodp)
  - [Murilo Rainho](https://github.com/Murilo-Rainho)
 
