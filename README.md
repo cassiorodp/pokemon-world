@@ -36,9 +36,9 @@
       </ul>
     </li>
     <li>
-      <a href="#man_technologist-running_the_app">Running the App</a>
+      <span>Running the App</span>
       <ul>
-        <li><a href="">Prerequisites</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="">Installation</a></li>
       </ul>
     </li>
@@ -63,11 +63,9 @@
 
 ### :man_technologist: Running the App
 
-Para executar a aplicação localmente siga as instruções abaixo.
+To execute the app, please follow this instructions.
 
-Obs.: a aplicação se encontra em deploy no site [https://react-context-movies.herokuapp.com/](https://react-context-movies.herokuapp.com/). _Lembrando que devido a configuração **Hibernate** do Heroku, o primeiro acesso poderá levar um longo tempo_.
-
-### Pré-requisitos
+<h3 id="prerequisites">Prerequisites</h3>
 
 Primeiramente é necessário que possua instalado as seguintes ferramentas: gerenciador de pacotes NPM e o Git.
 Além disto é bom ter um editor para trabalhar com o código como VSCode.
