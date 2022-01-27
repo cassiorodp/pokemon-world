@@ -31,8 +31,8 @@
     <li>
       <span>About the Project</span>
       <ul>
-        <li><a href="#gear-Functionalities">Functionalities</a></li>
-        <li><a href="">Techs</a></li>
+        <li><a href="#gear-Features">Features</a></li>
+        <li><a href="computer-Techs">Techs</a></li>
       </ul>
     </li>
     <li>
@@ -47,23 +47,66 @@
   </ol>
 </details>
 
-### :gear: Functionalities
-- Exibição de um carrossel com os filmes mais recentes
-- Catálogo de filmes com exibição em lista ou coluna
-- Página de detalhes do filme, com trailer (se existir)
-- Filtrar catálogo de filmes por gênero
-- Ordenação do catálogo de filmes por mais popular(default) ou melhor avaliação
+### :gear: Features
+- Search tool with animated feedback
+- Complete pokedex with pagination
+- Pokemon cards with animated css
+
+### :computer: Techs
+  
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</div>
+
+## :man_technologist: Executando a aplicação
+
+Para executar a aplicação localmente siga as instruções abaixo.
+
+Obs.: a aplicação se encontra em deploy no site [https://react-context-movies.herokuapp.com/](https://react-context-movies.herokuapp.com/). _Lembrando que devido a configuração **Hibernate** do Heroku, o primeiro acesso poderá levar um longo tempo_.
+
+### Pré-requisitos
+
+Primeiramente é necessário que possua instalado as seguintes ferramentas: gerenciador de pacotes NPM e o Git.
+Além disto é bom ter um editor para trabalhar com o código como VSCode.
+
+### Instalação
+
+1. Faça uma cópia do repositório (HTTPS ou SSH)
+   ```sh
+   git clone https://github.com/flpnascto/movies-react.git
+   ```
+
+   ```sh
+   git@github.com:flpnascto/movies-react.git
+   ```
+
+2. Acesse a pasta do repositório loca e instale os pacotes necessários
+
+   ```sh
+   npm install
+   ```
+3. Adicionar chave para acesso à API TMDb
+     1. Crie uma conta no site [https://www.themoviedb.org/](https://www.themoviedb.org/)
+     2. Acesse sua conta em **configurações**
+     3. Acesse no menu esquerdo a seção **API**
+     4. Copie a sua chave em **Chave da API (v3 auth)**
+     5. Na raiz do repositório local crie um novo arquivo chamado `.env.local`
+     6. Abra `.env.local` e adicione a linha, substituindo _<<api_key>>_ pela sua chave (3.4)
+
+     ```
+     REACT_APP_APIKEY=<<api_key>>
+     ```
+
+4. Na pasta do repositócio local execute o comando para iniciar a aplicação
+
+   ```sh
+   npm start
+   ```
 
 ### Made by Pair Progamming
-
----
-
-### Educacional app powered by react, using some stacks like:
- - HTML
- - CSS
- - React js
- - React state
- - React route
 
 ---
 
