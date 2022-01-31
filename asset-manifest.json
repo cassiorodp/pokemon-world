@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokemon-world/static/css/main.fcce243d.chunk.css",
-    "main.js": "/pokemon-world/static/js/main.b779374c.chunk.js",
-    "main.js.map": "/pokemon-world/static/js/main.b779374c.chunk.js.map",
+    "main.js": "/pokemon-world/static/js/main.b5e9f0e4.chunk.js",
+    "main.js.map": "/pokemon-world/static/js/main.b5e9f0e4.chunk.js.map",
     "runtime-main.js": "/pokemon-world/static/js/runtime-main.a0673fa7.js",
     "runtime-main.js.map": "/pokemon-world/static/js/runtime-main.a0673fa7.js.map",
     "static/js/2.3667b933.chunk.js": "/pokemon-world/static/js/2.3667b933.chunk.js",
@@ -14,24 +14,29 @@
     "static/js/2.3667b933.chunk.js.LICENSE.txt": "/pokemon-world/static/js/2.3667b933.chunk.js.LICENSE.txt",
     "static/media/blastoise.797106d4.png": "/pokemon-world/static/media/blastoise.797106d4.png",
     "static/media/catch-pokemon.33dfb9d2.gif": "/pokemon-world/static/media/catch-pokemon.33dfb9d2.gif",
+    "static/media/celebi.365c8339.png": "/pokemon-world/static/media/celebi.365c8339.png",
     "static/media/charizard.671d94ba.png": "/pokemon-world/static/media/charizard.671d94ba.png",
     "static/media/charmander_sad.c9b440c5.gif": "/pokemon-world/static/media/charmander_sad.c9b440c5.gif",
     "static/media/entei.a4a348ac.png": "/pokemon-world/static/media/entei.a4a348ac.png",
     "static/media/pokedex.css": "/pokemon-world/static/media/loading.176efa05.gif",
     "static/media/logo_linkedin.68ac41e1.png": "/pokemon-world/static/media/logo_linkedin.68ac41e1.png",
     "static/media/logo_whatsapp.9aa2a760.png": "/pokemon-world/static/media/logo_whatsapp.9aa2a760.png",
+    "static/media/mewtwo.2110a419.png": "/pokemon-world/static/media/mewtwo.2110a419.png",
+    "static/media/nidoram.824a7e06.png": "/pokemon-world/static/media/nidoram.824a7e06.png",
+    "static/media/nidorino.a4504283.png": "/pokemon-world/static/media/nidorino.a4504283.png",
     "static/media/pc_next_sound.33b35d8a.mp3": "/pokemon-world/static/media/pc_next_sound.33b35d8a.mp3",
     "static/media/pc_select_sound.168abf83.mp3": "/pokemon-world/static/media/pc_select_sound.168abf83.mp3",
     "static/media/header.css": "/pokemon-world/static/media/pokemon-logo-pixel.032090d5.png",
     "static/media/pokemon_found.bcc21503.mp3": "/pokemon-world/static/media/pokemon_found.bcc21503.mp3",
     "static/media/professor-oak.94d987ef.png": "/pokemon-world/static/media/professor-oak.94d987ef.png",
     "static/media/sad-pikachu.df5b1672.gif": "/pokemon-world/static/media/sad-pikachu.df5b1672.gif",
+    "static/media/suicune.a6c751b7.png": "/pokemon-world/static/media/suicune.a6c751b7.png",
     "static/media/venusaur.32f52ef9.png": "/pokemon-world/static/media/venusaur.32f52ef9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a0673fa7.js",
     "static/js/2.3667b933.chunk.js",
     "static/css/main.fcce243d.chunk.css",
-    "static/js/main.b779374c.chunk.js"
+    "static/js/main.b5e9f0e4.chunk.js"
   ]
 }
