@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 
 import '../styles/home.css'
 import professorOak from '../img/professor-oak.png'
+import entei from '../img/entei.png'
+import charizard from '../img/charizard.png'
+import venusaur from '../img/venusaur.png'
+import blastoise from '../img/blastoise.png'
 
 export default class Home extends Component {
   render() {
@@ -9,12 +13,12 @@ export default class Home extends Component {
       <main data-testid="home-exist" className='main-home'>
         <section className='img-container'>
           <div className='pokemon-top-right'>
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/e/e1/Spr_5b_006.png' alt='charizard' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/6/68/Spr_5b_003_m.png' alt='venusaur' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/3/3d/Spr_5b_009.png' alt='blastoise' />
+            <img className='pokemon-image' src={charizard} alt='charizard' />
+            <img className='pokemon-image' src={venusaur} alt='venusaur' />
+            <img className='pokemon-image' src={blastoise} alt='blastoise' />
           </div>
           <div className='pokemon-top-left'>
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/e/e8/Spr_5b_244.png' alt='entei' />
+            <img className='pokemon-image' src={entei} alt='entei' />
             <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/b/b0/Spr_5b_243.png' alt='raikou' />
             <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/6/6a/Spr_5b_245.png' alt='suicune' />
           </div>
