@@ -6,6 +6,14 @@ import entei from '../img/entei.png'
 import charizard from '../img/charizard.png'
 import venusaur from '../img/venusaur.png'
 import blastoise from '../img/blastoise.png'
+import raikou from '../img/blastoise.png'
+import suicune from '../img/suicune.png'
+import nidoram from '../img/nidoram.png'
+import nidorino from '../img/nidorino.png'
+import nidoking from '../img/nidorino.png'
+import mew from '../img/nidorino.png'
+import mewtwo from '../img/mewtwo.png'
+import celebi from '../img/celebi.png'
 
 export default class Home extends Component {
   render() {
@@ -19,18 +27,18 @@ export default class Home extends Component {
           </div>
           <div className='pokemon-top-left'>
             <img className='pokemon-image' src={entei} alt='entei' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/b/b0/Spr_5b_243.png' alt='raikou' />
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/6/6a/Spr_5b_245.png' alt='suicune' />
+            <img className='pokemon-image' src={raikou} alt='raikou' />
+            <img className='pokemon-image' src={suicune} alt='suicune' />
           </div>
           <div className='pokemon-bottom-right'>
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/5/5d/Spr_5b_032.png' alt='nidoran-m' />
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/1/16/Spr_5b_033.png' alt='nidorino' />
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/4/46/Spr_5b_034.png' alt='nidoking' />
+            <img className='pokemon-image' src={nidoram} alt='nidoran-m' />
+            <img className='pokemon-image' src={nidorino} alt='nidorino' />
+            <img className='pokemon-image' src={nidoking} alt='nidoking' />
           </div>
           <div className='pokemon-bottom-left'>
-            <img className='pokemon-image' src='https://cdn2.bulbagarden.net/upload/4/43/Spr_5b_151.png' alt='mew' />
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/7/73/Spr_5b_150.png' alt='mewtwo' />
-            <img className='pokemon-image' src='https://archives.bulbagarden.net/media/upload/9/9f/Spr_5b_251.png' alt='celebi' />
+            <img className='pokemon-image' src={mew} alt='mew' />
+            <img className='pokemon-image' src={mewtwo} alt='mewtwo' />
+            <img className='pokemon-image' src={celebi} alt='celebi' />
           </div>
           <img className='professor-img' src={professorOak} alt="professor-oak" />
         </section>
