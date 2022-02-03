@@ -50,8 +50,10 @@
 <h2 id="about">⚡ About</h2> 
 <p align="center">
 Pokemon World is an fan app for you to find your next favorite pokemon! Here you can find a lot of information about all pokemons, like his moves, types or even his evolutions!
-
+</p>
+<p align="center">
 This project was made with pair programming, so besides hard-skills, a lot of soft-skills where improved by making this app, eg: Communication, Colaboration and Creativity.
+</p>
 
 <h3 id="features">⚙ Features</h3>
 
